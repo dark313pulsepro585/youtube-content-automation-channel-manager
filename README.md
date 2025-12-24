@@ -1,8 +1,6 @@
 # YouTube Content Automation Channel Manager
 
-A browser-based automation system designed to manage YouTube channels by streamlining content sourcing, publishing workflows, and channel operations. This project focuses on automating repetitive publishing tasks while keeping control over content handling, scheduling, and channel consistency.
-
-It provides a structured foundation for running automated YouTube channels responsibly and at scale.
+A browser-based automation system designed to manage YouTube channels by streamlining content sourcing, publishing workflows, and channel operations. This project focuses on automating repetitive publishing tasks while keeping control over content handling, scheduling, and channel consistency. It provides a structured foundation for running automated YouTube channels responsibly and at scale.
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
